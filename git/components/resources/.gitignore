@@ -1,0 +1,6 @@
+*
+!.gitignore
+!sh
+!pems
+!conf
+!templates
